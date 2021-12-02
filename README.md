@@ -1,2 +1,2 @@
-[class website](https://NSS-Full-Time-Data-Analytics-5.github.io)
+[class website](https://nss-full-time-data-analytics-5.github.io)
 NSS Full Time Data Analytics Cohort 5
